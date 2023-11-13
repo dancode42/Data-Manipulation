@@ -4,3 +4,9 @@ This is my repository on data processing in Python, all the practice exercises y
 ## What we learn on this module:
 - Pandas
 - Numpy
+- Filter
+- DataFrame
+- Exceptions
+- For Loop
+- Funtions
+  
